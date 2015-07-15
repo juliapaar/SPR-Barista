@@ -1,0 +1,6 @@
+C:\Projects\My Projects\BaristaMatic\BaristaMatic\bin\Debug\BaristaMatic.exe.config
+C:\Projects\My Projects\BaristaMatic\BaristaMatic\obj\Debug\BaristaMatic.csprojResolveAssemblyReference.cache
+C:\Projects\My Projects\BaristaMatic\BaristaMatic\bin\Debug\BaristaMatic.exe
+C:\Projects\My Projects\BaristaMatic\BaristaMatic\bin\Debug\BaristaMatic.pdb
+C:\Projects\My Projects\BaristaMatic\BaristaMatic\obj\Debug\BaristaMatic.exe
+C:\Projects\My Projects\BaristaMatic\BaristaMatic\obj\Debug\BaristaMatic.pdb
